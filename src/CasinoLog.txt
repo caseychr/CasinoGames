@@ -1,0 +1,1497 @@
+Sat Dec 16 10:43:36 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 10:43:36 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 10:43:37 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 1.0
+Sat Dec 16 10:43:37 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 10:43:37 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 10:43:37 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 10:43:40 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 10:43:40 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = true
+Sat Dec 16 10:43:40 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = h keepPlaying = true
+Sat Dec 16 10:43:40 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = true
+Sat Dec 16 10:43:40 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 10:43:40 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Queen of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 10:43:40 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Queen of Clubs, 5 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 10:43:40 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 10:43:40 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 10:43:40 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 10:43:40 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 10:43:40 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 10:43:40 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 10:43:40 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Gambler: 150.0 House: 150000.0
+Sat Dec 16 10:49:53 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 10:49:53 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 10:49:55 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 1.0
+Sat Dec 16 10:49:55 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 10:49:55 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 10:49:55 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 10:49:57 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 10:49:57 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 10:49:57 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = h keepPlaying = true
+Sat Dec 16 10:49:57 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 10:50:00 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 10:50:00 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 10:50:00 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = h keepPlaying = true
+Sat Dec 16 10:50:00 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 10:50:03 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = s keepPlaying = true
+Sat Dec 16 10:50:03 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 10:50:03 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 10:50:03 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 10:50:03 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Clubs, King of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 10:50:03 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 10:50:03 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 10:50:03 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 10:50:03 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 10:50:03 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 149.0 House: 150000.0
+Sat Dec 16 10:51:22 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 10:51:22 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 10:51:23 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 10:51:23 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 10:51:23 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 10:51:23 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 10:51:31 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 10:51:31 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 10:51:32 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 1.0
+Sat Dec 16 10:51:32 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 10:51:32 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 10:51:32 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 10:51:34 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 10:51:34 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 10:51:34 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 10:51:34 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Diamonds, 3 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 10:51:34 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 10:51:34 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 10:51:34 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 10:51:34 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 10:51:34 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 149.0 House: 150000.0
+Sat Dec 16 10:53:50 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 10:53:50 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 10:53:52 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 10:53:52 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 10:53:52 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 10:53:52 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 10:53:54 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 10:53:54 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Clubs, 10 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 10:53:54 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 10:53:54 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 10:53:54 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 10:53:54 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Clubs, 10 of Spades, 6 of Clubs], Count: 15 pulled a card from the deck
+Sat Dec 16 10:53:54 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 10:53:54 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 10:53:54 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 10:53:54 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Matt Wins! Gambler: 160.0 House: 150000.0
+Sat Dec 16 17:47:39 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 17:47:39 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 17:47:42 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 17:51:15 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 17:51:15 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 17:51:17 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 17:51:42 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 17:51:42 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 17:54:28 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 17:54:28 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 17:54:30 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 17:54:30 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 17:54:30 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 17:54:30 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 17:54:30 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 17:54:30 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 17:54:30 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Gambler: 150.0 House: 150000.0
+Sat Dec 16 17:54:58 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 17:54:58 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 17:54:59 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 17:54:59 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 17:54:59 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 17:55:25 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 17:55:25 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 17:55:29 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 17:55:29 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 17:55:29 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 17:56:03 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 17:56:03 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 17:56:04 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 17:56:04 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 17:56:04 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 17:58:04 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 17:58:04 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 17:58:06 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 17:58:06 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 17:58:06 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 17:58:06 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 17:58:06 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:00:06 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:00:06 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:00:07 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:00:07 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:00:07 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:00:55 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:00:55 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:00:56 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:00:56 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:00:56 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:00:59 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:00:59 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:02:22 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:02:24 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:02:24 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:02:24 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:02:31 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:02:31 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:02:34 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:02:36 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:02:36 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:02:36 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:02:37 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:02:37 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:02:37 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:02:39 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:02:39 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:02:39 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:02:41 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:02:41 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:02:44 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:02:46 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:02:46 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:02:46 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:02:48 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:02:48 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:02:48 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:02:49 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:02:49 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:02:53 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = 10 keepPlaying = true
+Sat Dec 16 18:05:21 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:05:21 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:05:23 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:05:23 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:05:23 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:05:25 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:05:25 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:05:25 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:05:25 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:05:25 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [4 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 18:05:25 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:05:25 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:06:31 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:06:31 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:06:32 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:06:32 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:06:32 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:06:35 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:06:35 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:06:35 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:06:36 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:06:36 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:06:36 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 18:06:36 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Diamonds, 10 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 18:06:36 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:06:36 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:07:05 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:07:05 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:07:07 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:07:07 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:07:07 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:07:09 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:07:09 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:07:09 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:07:10 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:07:10 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:07:10 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:07:12 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:07:12 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:07:12 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:08:26 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:08:26 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:08:26 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [King of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 18:08:26 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [King of Clubs, 7 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 18:08:26 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:08:26 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:15:41 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:15:41 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:15:42 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:15:42 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:15:42 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:15:44 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:15:44 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = true
+Sat Dec 16 18:15:44 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = true
+Sat Dec 16 18:15:44 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:15:44 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 18:15:44 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Hearts, Jack of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 18:15:44 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = false
+Sat Dec 16 18:15:44 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Hearts, Jack of Hearts, 10 of Hearts], Count: 19 pulled a card from the deck
+Sat Dec 16 18:15:44 EST 2017  INFO  [C:Functions]  {M:didBust()}  ->   Object busted = true
+Sat Dec 16 18:15:44 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:18:44 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:18:44 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:18:45 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:18:45 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:18:45 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:18:47 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:18:47 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [2 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 18:18:47 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [2 of Spades, Jack of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 18:18:47 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:35:08 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:35:08 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:35:10 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:35:10 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:35:10 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:35:18 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:35:18 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:35:18 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [10 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 18:35:18 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [10 of Clubs, Queen of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 18:35:18 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [10 of Clubs, Queen of Spades, 7 of Spades], Count: 20 pulled a card from the deck
+Sat Dec 16 18:36:17 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:36:17 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:36:19 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:36:19 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:36:19 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:36:23 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:36:25 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:36:31 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:36:31 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 18:36:31 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Diamonds, Jack of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 18:36:31 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Diamonds, Jack of Spades, 10 of Hearts], Count: 20 pulled a card from the deck
+Sat Dec 16 18:37:57 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:37:57 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:38:00 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:38:00 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:38:00 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:38:02 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:38:02 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 18:38:02 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Spades, King of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 18:38:02 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Spades, King of Clubs, Queen of Spades], Count: 13 pulled a card from the deck
+Sat Dec 16 18:38:10 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:38:10 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:38:12 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 1.0
+Sat Dec 16 18:38:12 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:38:12 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:38:14 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:38:14 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:38:14 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 18:38:14 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Spades, 3 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 18:38:14 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Spades, 3 of Hearts, Ace of Clubs], Count: 6 pulled a card from the deck
+Sat Dec 16 18:39:14 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:39:14 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:39:16 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 1.0
+Sat Dec 16 18:39:16 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:39:16 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:39:18 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:39:18 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 18:39:18 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Clubs, King of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 18:39:18 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Clubs, King of Clubs, Jack of Hearts], Count: 15 pulled a card from the deck
+Sat Dec 16 18:39:40 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:39:40 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:39:41 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:39:41 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:39:41 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:39:43 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:39:43 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:39:43 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [4 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 18:39:43 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [4 of Spades, 8 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 18:39:43 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [4 of Spades, 8 of Spades, 8 of Hearts], Count: 12 pulled a card from the deck
+Sat Dec 16 18:41:29 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:41:29 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:41:31 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:41:31 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:41:31 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:41:33 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:41:33 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:41:33 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [10 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 18:41:33 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [10 of Clubs, 4 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 18:41:33 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [10 of Clubs, 4 of Hearts, 4 of Clubs], Count: 14 pulled a card from the deck
+Sat Dec 16 18:41:36 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = s keepPlaying = true
+Sat Dec 16 18:43:33 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:43:33 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:43:37 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:43:37 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:43:37 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:43:38 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:43:41 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:43:41 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 18:43:41 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Hearts, 2 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 18:43:41 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Hearts, 2 of Clubs, Ace of Spades], Count: 7 pulled a card from the deck
+Sat Dec 16 18:45:08 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:45:08 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:45:09 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:45:09 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:45:09 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:45:11 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:45:14 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:45:14 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:45:14 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [10 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 18:45:14 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [10 of Diamonds, Queen of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 18:45:14 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [10 of Diamonds, Queen of Clubs, 6 of Spades], Count: 20 pulled a card from the deck
+Sat Dec 16 18:46:09 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:46:09 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:46:11 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:46:11 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:46:11 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:46:12 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:46:12 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:46:12 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [8 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 18:46:12 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [8 of Clubs, 10 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 18:46:12 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [8 of Clubs, 10 of Hearts, 6 of Diamonds], Count: 18 pulled a card from the deck
+Sat Dec 16 18:46:51 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:46:51 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:46:52 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:46:52 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:46:52 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:46:54 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:46:56 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 18:46:56 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 18:46:56 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Diamonds, 2 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 18:46:56 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Diamonds, 2 of Diamonds, 8 of Spades], Count: 12 pulled a card from the deck
+Sat Dec 16 18:49:26 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:49:26 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:49:28 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 1.0
+Sat Dec 16 18:49:28 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:49:28 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:49:30 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 18:49:30 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Diamonds, 3 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 18:51:01 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:51:01 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:51:02 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:51:02 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:51:02 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:51:04 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:51:04 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 18:51:04 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Spades, 10 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 18:51:38 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:51:38 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:51:40 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 1.0
+Sat Dec 16 18:51:40 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:51:40 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:51:43 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [8 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 18:51:43 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [8 of Diamonds, Jack of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 18:52:51 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:52:51 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:52:52 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 1.0
+Sat Dec 16 18:52:52 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:52:52 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:52:57 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:53:02 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:53:02 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [6 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 18:53:02 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [6 of Clubs, King of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 18:53:25 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:53:25 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:53:26 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 1.0
+Sat Dec 16 18:53:26 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:53:26 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:53:28 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 18:53:28 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Hearts, 6 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 18:53:50 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:53:50 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:53:51 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:53:51 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:53:51 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:53:53 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:53:55 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [6 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 18:53:55 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [6 of Spades, 2 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 18:54:06 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:54:06 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:54:07 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:54:07 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:54:07 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:54:11 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:54:13 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:54:17 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:54:17 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [2 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 18:54:17 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [2 of Hearts, 2 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 18:54:39 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:54:39 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:54:41 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:54:41 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:54:41 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:54:43 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:54:45 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 18:54:45 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Diamonds, 2 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 18:54:54 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = h keepPlaying = true
+Sat Dec 16 18:54:54 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:54:55 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 1.0
+Sat Dec 16 18:54:55 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:54:55 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:54:58 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:54:59 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:54:59 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 18:54:59 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Diamonds, Ace of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 18:58:10 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:58:10 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:58:11 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 18:58:11 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:58:11 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:58:13 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:58:21 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 18:58:21 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Diamonds, King of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 18:58:21 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Diamonds, King of Diamonds, Jack of Spades], Count: 20 pulled a card from the deck
+Sat Dec 16 18:59:55 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 18:59:55 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 18:59:56 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 1.0
+Sat Dec 16 18:59:56 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:59:56 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 18:59:59 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 18:59:59 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Clubs, 8 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 18:59:59 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Clubs, 8 of Diamonds, 5 of Clubs], Count: 11 pulled a card from the deck
+Sat Dec 16 18:59:59 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Clubs, 8 of Diamonds, 5 of Clubs, Jack of Hearts], Count: 16 pulled a card from the deck
+Sat Dec 16 19:00:08 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:00:12 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:00:12 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:00:12 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:02:18 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:02:18 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 19:02:20 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:02:20 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:02:20 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:02:21 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:02:24 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:02:27 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 19:02:27 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Spades, 4 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 19:02:27 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Spades, 4 of Clubs, 10 of Diamonds], Count: 9 pulled a card from the deck
+Sat Dec 16 19:02:27 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Gambler: 150.0 House: 150000.0
+Sat Dec 16 19:02:38 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:02:40 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:02:40 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:02:40 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:02:42 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:02:43 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 19:02:43 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Clubs, Ace of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 19:02:43 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 140.0 House: 150000.0
+Sat Dec 16 19:02:52 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:02:54 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:02:54 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 19:02:54 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 19:02:55 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 19:02:55 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [6 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 19:02:55 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [6 of Hearts, 10 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 19:02:55 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 130.0 House: 150000.0
+Sat Dec 16 19:03:01 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:03:03 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:03:03 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 130.0 pulled a card from the deck
+Sat Dec 16 19:03:03 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 130.0 pulled a card from the deck
+Sat Dec 16 19:03:10 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 19:03:10 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Spades, 3 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 19:03:10 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Spades, 3 of Hearts, 8 of Spades], Count: 10 pulled a card from the deck
+Sat Dec 16 19:03:10 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Spades, 3 of Hearts, 8 of Spades, Queen of Diamonds], Count: 18 pulled a card from the deck
+Sat Dec 16 19:03:10 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Matt Wins! Gambler: 140.0 House: 150000.0
+Sat Dec 16 19:03:20 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:03:21 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:03:21 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 19:03:21 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 19:03:23 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 19:03:26 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 19:03:26 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [King of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 19:03:26 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [King of Diamonds, Jack of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 19:03:26 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 130.0 House: 150000.0
+Sat Dec 16 19:03:40 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:03:41 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:03:41 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 130.0 pulled a card from the deck
+Sat Dec 16 19:03:41 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 130.0 pulled a card from the deck
+Sat Dec 16 19:03:43 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 130.0 pulled a card from the deck
+Sat Dec 16 19:03:43 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [6 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 19:03:43 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [6 of Clubs, 4 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 19:03:43 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 120.0 House: 150000.0
+Sat Dec 16 19:03:50 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:03:51 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:03:51 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 120.0 pulled a card from the deck
+Sat Dec 16 19:03:51 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 120.0 pulled a card from the deck
+Sat Dec 16 19:03:53 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 120.0 pulled a card from the deck
+Sat Dec 16 19:03:53 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 19:03:53 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Clubs, 5 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 19:03:53 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 110.0 House: 150000.0
+Sat Dec 16 19:04:04 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:04:06 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:04:06 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 110.0 pulled a card from the deck
+Sat Dec 16 19:04:06 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 110.0 pulled a card from the deck
+Sat Dec 16 19:04:08 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 110.0 pulled a card from the deck
+Sat Dec 16 19:04:08 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 19:04:08 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Diamonds, 2 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 19:04:08 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 100.0 House: 150000.0
+Sat Dec 16 19:04:11 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:04:14 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:04:14 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 100.0 pulled a card from the deck
+Sat Dec 16 19:04:14 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 100.0 pulled a card from the deck
+Sat Dec 16 19:04:15 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 100.0 pulled a card from the deck
+Sat Dec 16 19:04:15 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [King of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 19:04:15 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [King of Clubs, Jack of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 19:04:15 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 90.0 House: 150000.0
+Sat Dec 16 19:04:17 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:04:19 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:04:19 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 90.0 pulled a card from the deck
+Sat Dec 16 19:04:19 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 90.0 pulled a card from the deck
+Sat Dec 16 19:04:21 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 19:04:42 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:04:42 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 19:04:44 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:04:44 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:04:44 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:04:46 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Ace of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 19:04:46 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Ace of Diamonds, 3 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 19:04:46 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Ace of Diamonds, 3 of Clubs, 5 of Clubs], Count: 14 pulled a card from the deck
+Sat Dec 16 19:04:46 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Gambler: 150.0 House: 150000.0
+Sat Dec 16 19:04:51 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:04:54 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:04:54 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:04:54 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:04:56 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:04:58 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 19:04:58 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Spades, 2 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 19:04:58 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Spades, 2 of Diamonds, 7 of Hearts], Count: 7 pulled a card from the deck
+Sat Dec 16 19:04:58 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Spades, 2 of Diamonds, 7 of Hearts, Ace of Hearts], Count: 14 pulled a card from the deck
+Sat Dec 16 19:04:58 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Spades, 2 of Diamonds, 7 of Hearts, Ace of Hearts, 4 of Spades], Count: 15 pulled a card from the deck
+Sat Dec 16 19:04:58 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 140.0 House: 150000.0
+Sat Dec 16 19:05:02 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:05:03 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:05:03 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 19:05:03 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 19:05:05 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 19:05:05 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [King of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 19:05:05 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [King of Hearts, King of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 19:05:05 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 130.0 House: 150000.0
+Sat Dec 16 19:05:08 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:05:09 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:05:09 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 130.0 pulled a card from the deck
+Sat Dec 16 19:05:09 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 130.0 pulled a card from the deck
+Sat Dec 16 19:05:11 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 130.0 pulled a card from the deck
+Sat Dec 16 19:05:12 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 130.0 pulled a card from the deck
+Sat Dec 16 19:05:14 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 19:05:14 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Spades, Queen of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 19:05:14 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Spades, Queen of Spades, King of Diamonds], Count: 20 pulled a card from the deck
+Sat Dec 16 19:05:14 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Matt Wins! Gambler: 140.0 House: 150000.0
+Sat Dec 16 19:10:57 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:10:57 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 19:10:58 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:10:58 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:10:58 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:11:00 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 19:11:00 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Diamonds, 2 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 19:11:00 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Diamonds, 2 of Diamonds, Queen of Spades], Count: 7 pulled a card from the deck
+Sat Dec 16 19:11:00 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Diamonds, 2 of Diamonds, Queen of Spades, Queen of Hearts], Count: 17 pulled a card from the deck
+Sat Dec 16 19:11:00 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Matt Wins! Gambler: 160.0 House: 150000.0
+Sat Dec 16 19:11:00 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:11:00 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:11:10 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:11:13 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:11:13 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 160.0 pulled a card from the deck
+Sat Dec 16 19:11:13 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 160.0 pulled a card from the deck
+Sat Dec 16 19:11:14 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 160.0 pulled a card from the deck
+Sat Dec 16 19:11:16 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 19:11:16 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Clubs, 3 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 19:11:16 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Clubs, 3 of Spades, Queen of Clubs], Count: 6 pulled a card from the deck
+Sat Dec 16 19:11:16 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Clubs, 3 of Spades, Queen of Clubs, 8 of Clubs], Count: 16 pulled a card from the deck
+Sat Dec 16 19:11:16 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Matt Wins! Gambler: 170.0 House: 150000.0
+Sat Dec 16 19:11:16 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:11:16 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:11:22 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:11:24 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:11:24 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 170.0 pulled a card from the deck
+Sat Dec 16 19:11:24 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 170.0 pulled a card from the deck
+Sat Dec 16 19:11:27 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 19:11:27 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Clubs, 3 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 19:11:27 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Clubs, 3 of Hearts, 4 of Spades], Count: 13 pulled a card from the deck
+Sat Dec 16 19:11:27 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Clubs, 3 of Hearts, 4 of Spades, 2 of Spades], Count: 17 pulled a card from the deck
+Sat Dec 16 19:11:27 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Clubs, 3 of Hearts, 4 of Spades, 2 of Spades, King of Hearts], Count: 19 pulled a card from the deck
+Sat Dec 16 19:11:27 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Matt Wins! Gambler: 180.0 House: 150000.0
+Sat Dec 16 19:11:27 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:11:27 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:11:31 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:11:33 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 20.0
+Sat Dec 16 19:11:33 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 180.0 pulled a card from the deck
+Sat Dec 16 19:11:33 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 180.0 pulled a card from the deck
+Sat Dec 16 19:11:38 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 180.0 pulled a card from the deck
+Sat Dec 16 19:11:38 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Ace of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 19:11:38 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Ace of Hearts, 6 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 19:11:38 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 160.0 House: 150000.0
+Sat Dec 16 19:11:38 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:11:38 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:14:52 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:14:52 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 19:14:54 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:14:54 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:14:54 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:14:57 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Ace of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 19:14:57 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Ace of Hearts, Jack of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 19:14:57 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Gambler: 150.0 House: 150000.0
+Sat Dec 16 19:14:57 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:14:57 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:15:00 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:15:02 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:15:02 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:15:02 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:15:04 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:15:05 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:15:07 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Queen of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 19:15:07 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Queen of Hearts, 9 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 19:15:07 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Queen of Hearts, 9 of Hearts, 2 of Spades], Count: 19 pulled a card from the deck
+Sat Dec 16 19:15:07 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Gambler: 150.0 House: 150000.0
+Sat Dec 16 19:15:07 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:15:07 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:15:13 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:15:15 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:15:15 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:15:15 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 19:15:17 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 19:15:17 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Clubs, 10 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 19:15:17 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 140.0 House: 150000.0
+Sat Dec 16 19:15:17 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:15:17 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:15:21 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:15:23 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:15:23 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 19:15:23 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 19:15:25 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 19:15:27 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 19:15:27 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Spades, Jack of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 19:15:27 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 130.0 House: 150000.0
+Sat Dec 16 19:15:27 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:15:27 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:15:30 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:15:32 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:15:32 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 130.0 pulled a card from the deck
+Sat Dec 16 19:15:32 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 130.0 pulled a card from the deck
+Sat Dec 16 19:15:33 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 130.0 pulled a card from the deck
+Sat Dec 16 19:15:34 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 130.0 pulled a card from the deck
+Sat Dec 16 19:15:37 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [6 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 19:15:37 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [6 of Clubs, 5 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 19:15:37 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [6 of Clubs, 5 of Diamonds, 7 of Clubs], Count: 11 pulled a card from the deck
+Sat Dec 16 19:15:37 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [6 of Clubs, 5 of Diamonds, 7 of Clubs, 10 of Hearts], Count: 18 pulled a card from the deck
+Sat Dec 16 19:15:37 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Matt Wins! Gambler: 140.0 House: 150000.0
+Sat Dec 16 19:15:37 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:15:37 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:15:47 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:15:48 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:15:48 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 19:15:48 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 19:15:51 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 19:15:51 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Hearts, 3 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 19:15:51 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Hearts, 3 of Hearts, Jack of Spades], Count: 10 pulled a card from the deck
+Sat Dec 16 19:15:51 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 130.0 House: 150000.0
+Sat Dec 16 19:15:51 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:15:51 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:15:54 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:15:59 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 19:15:59 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 130.0 pulled a card from the deck
+Sat Dec 16 19:15:59 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 130.0 pulled a card from the deck
+Sat Dec 16 19:16:01 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [2 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 19:16:01 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [2 of Clubs, 3 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 19:16:01 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [2 of Clubs, 3 of Diamonds, Queen of Spades], Count: 5 pulled a card from the deck
+Sat Dec 16 19:16:01 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [2 of Clubs, 3 of Diamonds, Queen of Spades, King of Hearts], Count: 15 pulled a card from the deck
+Sat Dec 16 19:16:01 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Matt Wins! Gambler: 140.0 House: 150000.0
+Sat Dec 16 19:16:01 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:16:01 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:16:06 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:16:11 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 100.0
+Sat Dec 16 19:16:11 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 19:16:11 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 19:16:15 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 19:16:15 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 19:16:15 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [5 of Hearts, King of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 19:16:15 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 40.0 House: 150000.0
+Sat Dec 16 19:16:15 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:16:15 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:16:21 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:16:34 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 40.0
+Sat Dec 16 19:16:34 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 40.0 pulled a card from the deck
+Sat Dec 16 19:16:34 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 40.0 pulled a card from the deck
+Sat Dec 16 19:16:36 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 19:16:36 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Clubs, 6 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 19:16:36 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Clubs, 6 of Hearts, 7 of Diamonds], Count: 9 pulled a card from the deck
+Sat Dec 16 19:16:36 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Clubs, 6 of Hearts, 7 of Diamonds, Queen of Clubs], Count: 16 pulled a card from the deck
+Sat Dec 16 19:16:36 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Matt Wins! Gambler: 80.0 House: 150000.0
+Sat Dec 16 19:16:36 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:16:36 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 19:16:40 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 19:16:43 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 80.0
+Sat Dec 16 19:16:43 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 80.0 pulled a card from the deck
+Sat Dec 16 19:16:43 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 80.0 pulled a card from the deck
+Sat Dec 16 22:41:23 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 22:41:23 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 22:41:24 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 22:41:24 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 22:41:24 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 22:41:26 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 22:41:26 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Hearts, 2 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 22:41:26 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Hearts, 2 of Spades, Jack of Diamonds], Count: 5 pulled a card from the deck
+Sat Dec 16 22:41:26 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Hearts, 2 of Spades, Jack of Diamonds, Jack of Spades], Count: 15 pulled a card from the deck
+Sat Dec 16 22:41:26 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Matt Wins! Gambler: 160.0 House: 150000.0
+Sat Dec 16 22:41:26 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 22:41:26 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 22:51:10 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 22:51:10 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 22:51:11 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 22:54:37 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 22:54:37 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 22:54:39 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 22:54:39 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 22:54:39 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 22:54:39 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 22:54:41 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 22:54:42 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [2 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 22:54:42 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [2 of Hearts, Queen of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 22:54:42 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 22:54:42 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [2 of Hearts, Queen of Hearts, King of Hearts], Count: 12 pulled a card from the deck
+Sat Dec 16 22:54:42 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Matt Wins! Gambler: 160.0 House: 150000.0
+Sat Dec 16 22:54:42 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 22:54:42 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 22:54:49 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 22:54:58 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 22:54:58 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 160.0 pulled a card from the deck
+Sat Dec 16 22:54:58 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 160.0 pulled a card from the deck
+Sat Dec 16 22:54:58 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 22:55:00 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [4 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 22:55:00 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [4 of Spades, 9 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 22:55:00 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 22:55:00 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [4 of Spades, 9 of Spades, King of Spades], Count: 13 pulled a card from the deck
+Sat Dec 16 22:55:00 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Matt Wins! Gambler: 170.0 House: 150000.0
+Sat Dec 16 22:55:00 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 22:55:00 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 22:55:05 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 22:55:07 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 22:55:07 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 170.0 pulled a card from the deck
+Sat Dec 16 22:55:07 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 170.0 pulled a card from the deck
+Sat Dec 16 22:55:07 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 22:55:09 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 170.0 pulled a card from the deck
+Sat Dec 16 22:55:09 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [2 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 22:55:09 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [2 of Clubs, 6 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 22:55:09 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 22:55:09 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 160.0 House: 150000.0
+Sat Dec 16 22:55:09 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 22:55:09 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 22:55:13 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 22:55:15 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 22:55:15 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 160.0 pulled a card from the deck
+Sat Dec 16 22:55:15 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 160.0 pulled a card from the deck
+Sat Dec 16 22:55:15 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 22:55:20 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 22:55:20 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Spades, 10 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 22:55:20 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 22:55:20 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Spades, 10 of Clubs, 4 of Clubs], Count: 13 pulled a card from the deck
+Sat Dec 16 22:55:20 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Spades, 10 of Clubs, 4 of Clubs, 8 of Spades], Count: 17 pulled a card from the deck
+Sat Dec 16 22:55:20 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Matt Wins! Gambler: 170.0 House: 150000.0
+Sat Dec 16 22:55:20 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 22:55:20 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 22:55:23 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 22:55:27 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 70.0
+Sat Dec 16 22:55:27 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 170.0 pulled a card from the deck
+Sat Dec 16 22:55:27 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 170.0 pulled a card from the deck
+Sat Dec 16 22:55:27 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 22:55:29 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Queen of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 22:55:29 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Queen of Diamonds, 3 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 22:55:29 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 22:55:29 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Queen of Diamonds, 3 of Diamonds, 8 of Diamonds], Count: 13 pulled a card from the deck
+Sat Dec 16 22:55:29 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 100.0 House: 150000.0
+Sat Dec 16 22:55:29 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 22:55:29 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 22:55:33 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 22:55:51 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 50.0
+Sat Dec 16 22:55:51 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 100.0 pulled a card from the deck
+Sat Dec 16 22:55:51 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 100.0 pulled a card from the deck
+Sat Dec 16 22:55:51 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 22:55:54 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Queen of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 22:55:54 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Queen of Spades, 10 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 22:55:54 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 22:55:54 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 50.0 House: 150000.0
+Sat Dec 16 22:55:54 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 22:55:54 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 22:55:57 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 22:55:59 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 20.0
+Sat Dec 16 22:55:59 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 50.0 pulled a card from the deck
+Sat Dec 16 22:55:59 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 50.0 pulled a card from the deck
+Sat Dec 16 22:55:59 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 22:56:01 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 50.0 pulled a card from the deck
+Sat Dec 16 22:56:01 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [4 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 22:56:01 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [4 of Hearts, 6 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 22:56:01 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 22:56:01 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 30.0 House: 150000.0
+Sat Dec 16 22:56:01 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 22:56:01 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 22:56:05 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 22:56:07 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 22:56:07 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 30.0 pulled a card from the deck
+Sat Dec 16 22:56:07 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 30.0 pulled a card from the deck
+Sat Dec 16 22:56:07 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 22:56:09 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 30.0 pulled a card from the deck
+Sat Dec 16 22:56:09 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 22:56:09 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Hearts, Ace of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 22:56:09 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 22:56:09 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 20.0 House: 150000.0
+Sat Dec 16 22:56:09 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 22:56:09 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 22:56:14 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 22:56:17 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 20.0
+Sat Dec 16 22:56:17 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 20.0 pulled a card from the deck
+Sat Dec 16 22:56:17 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 20.0 pulled a card from the deck
+Sat Dec 16 22:56:17 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 22:56:18 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 20.0 pulled a card from the deck
+Sat Dec 16 22:56:20 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 20.0 pulled a card from the deck
+Sat Dec 16 22:56:20 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [6 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 22:56:20 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [6 of Diamonds, 8 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 22:56:20 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 22:56:20 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 0.0 House: 150000.0
+Sat Dec 16 22:56:20 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 22:56:20 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 22:56:23 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = n keepPlaying = false
+Sat Dec 16 23:06:52 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 23:06:52 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 23:06:53 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 23:06:53 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 23:06:53 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 23:06:53 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 23:06:59 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 23:06:59 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Clubs, 5 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 23:06:59 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 23:06:59 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Clubs, 5 of Spades, 6 of Hearts], Count: 14 pulled a card from the deck
+Sat Dec 16 23:06:59 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Clubs, 5 of Spades, 6 of Hearts, 6 of Clubs], Count: 20 pulled a card from the deck
+Sat Dec 16 23:06:59 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Matt Wins! Gambler: 160.0 House: 150000.0
+Sat Dec 16 23:06:59 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:06:59 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:07:03 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 23:22:16 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 23:22:16 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 23:22:18 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 23:22:18 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 23:22:18 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 23:22:18 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 23:22:23 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 23:22:24 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 23:22:26 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 23:22:26 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Hearts, 9 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 23:22:26 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 23:22:26 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Hearts, 9 of Clubs, 8 of Diamonds], Count: 18 pulled a card from the deck
+Sat Dec 16 23:22:26 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Matt Wins! Gambler: 160.0 House: 150000.0
+Sat Dec 16 23:22:26 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:22:26 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:22:32 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 23:22:35 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 23:22:35 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 160.0 pulled a card from the deck
+Sat Dec 16 23:22:35 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 160.0 pulled a card from the deck
+Sat Dec 16 23:22:35 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 23:22:38 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [10 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 23:22:38 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [10 of Diamonds, Jack of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 23:22:38 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 23:22:38 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Gambler: 160.0 House: 150000.0
+Sat Dec 16 23:22:38 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:22:38 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:22:41 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 23:22:44 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 23:22:44 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 160.0 pulled a card from the deck
+Sat Dec 16 23:22:44 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 160.0 pulled a card from the deck
+Sat Dec 16 23:22:44 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 23:22:46 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Queen of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 23:22:46 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Queen of Diamonds, Queen of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 23:22:46 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 23:22:46 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Gambler: 160.0 House: 150000.0
+Sat Dec 16 23:22:46 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:22:46 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:22:55 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 23:22:57 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 23:22:57 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 160.0 pulled a card from the deck
+Sat Dec 16 23:22:57 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 160.0 pulled a card from the deck
+Sat Dec 16 23:22:57 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 23:22:59 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 160.0 pulled a card from the deck
+Sat Dec 16 23:22:59 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 160.0 pulled a card from the deck
+Sat Dec 16 23:23:01 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 160.0 pulled a card from the deck
+Sat Dec 16 23:23:03 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 23:23:03 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Spades, 3 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 23:23:03 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 23:23:03 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Spades, 3 of Clubs, 6 of Clubs], Count: 12 pulled a card from the deck
+Sat Dec 16 23:23:03 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Spades, 3 of Clubs, 6 of Clubs, 8 of Clubs], Count: 18 pulled a card from the deck
+Sat Dec 16 23:23:03 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Matt Wins! Gambler: 170.0 House: 150000.0
+Sat Dec 16 23:23:03 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:23:03 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:23:10 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 23:23:12 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 23:23:12 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 170.0 pulled a card from the deck
+Sat Dec 16 23:23:12 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 170.0 pulled a card from the deck
+Sat Dec 16 23:23:12 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 23:23:14 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 170.0 pulled a card from the deck
+Sat Dec 16 23:23:15 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [King of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 23:23:15 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [King of Hearts, 5 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 23:23:15 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 23:23:15 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [King of Hearts, 5 of Hearts, 8 of Hearts], Count: 15 pulled a card from the deck
+Sat Dec 16 23:23:15 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Matt Wins! Gambler: 180.0 House: 150000.0
+Sat Dec 16 23:23:15 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:23:15 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:23:18 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 23:23:20 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 23:23:20 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 180.0 pulled a card from the deck
+Sat Dec 16 23:23:20 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 180.0 pulled a card from the deck
+Sat Dec 16 23:23:20 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 23:23:21 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 180.0 pulled a card from the deck
+Sat Dec 16 23:23:23 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 23:23:23 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Clubs, 8 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 23:23:23 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 23:23:23 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Clubs, 8 of Spades, 2 of Clubs], Count: 15 pulled a card from the deck
+Sat Dec 16 23:23:23 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Clubs, 8 of Spades, 2 of Clubs, 7 of Diamonds], Count: 17 pulled a card from the deck
+Sat Dec 16 23:23:23 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Matt Wins! Gambler: 190.0 House: 150000.0
+Sat Dec 16 23:23:23 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:23:23 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:23:28 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 23:24:12 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 190.0
+Sat Dec 16 23:24:12 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 190.0 pulled a card from the deck
+Sat Dec 16 23:24:12 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 190.0 pulled a card from the deck
+Sat Dec 16 23:24:12 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 23:24:16 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 190.0 pulled a card from the deck
+Sat Dec 16 23:24:19 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 190.0 pulled a card from the deck
+Sat Dec 16 23:24:19 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 23:24:19 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [Jack of Spades, 4 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 23:24:19 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 23:24:19 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 0.0 House: 150000.0
+Sat Dec 16 23:24:19 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:24:19 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:27:32 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 23:27:32 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 23:27:34 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 23:27:34 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 23:27:34 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 23:27:34 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 23:27:36 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 23:27:36 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 23:27:36 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [3 of Spades, 2 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 23:27:36 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 23:27:36 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 140.0 House: 150000.0
+Sat Dec 16 23:27:36 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:27:36 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:27:40 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 23:27:42 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 23:27:42 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 23:27:42 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 23:27:42 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 23:27:43 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 23:27:43 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [2 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 23:27:43 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [2 of Spades, 10 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 23:27:43 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 23:27:43 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 130.0 House: 150000.0
+Sat Dec 16 23:27:43 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:27:43 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:27:47 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 23:27:49 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 23:27:49 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 130.0 pulled a card from the deck
+Sat Dec 16 23:27:49 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 130.0 pulled a card from the deck
+Sat Dec 16 23:27:49 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 23:27:51 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 23:27:51 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Clubs, 7 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 23:27:51 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 23:27:51 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [7 of Clubs, 7 of Diamonds, Jack of Diamonds], Count: 14 pulled a card from the deck
+Sat Dec 16 23:27:51 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   Matt Wins! Gambler: 140.0 House: 150000.0
+Sat Dec 16 23:27:51 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:27:51 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:27:55 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 23:28:11 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 23:28:11 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 23:28:31 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 23:28:31 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 23:28:35 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 150.0
+Sat Dec 16 23:28:35 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 23:28:35 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 23:28:35 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 23:28:41 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [10 of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 23:28:41 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [10 of Diamonds, 4 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 23:28:41 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 23:28:41 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [10 of Diamonds, 4 of Clubs, 6 of Clubs], Count: 14 pulled a card from the deck
+Sat Dec 16 23:28:41 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 0.0 House: 150000.0
+Sat Dec 16 23:28:41 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:28:41 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:31:15 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 23:31:15 EST 2017  INFO  [C:Card]  {M:arrayToAL()}  ->   Convert Array to ArrayList
+Sat Dec 16 23:31:17 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 10.0
+Sat Dec 16 23:31:17 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 23:31:17 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 23:31:17 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 23:31:19 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 150.0 pulled a card from the deck
+Sat Dec 16 23:31:20 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [4 of Hearts], Count: 0 pulled a card from the deck
+Sat Dec 16 23:31:20 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [4 of Hearts, 5 of Spades], Count: 0 pulled a card from the deck
+Sat Dec 16 23:31:20 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 23:31:20 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [4 of Hearts, 5 of Spades, Ace of Hearts], Count: 9 pulled a card from the deck
+Sat Dec 16 23:31:20 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 140.0 House: 150000.0
+Sat Dec 16 23:31:20 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:31:20 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:31:23 EST 2017  INFO  [C:Functions]  {M:keepPlaying()}  ->   decision = y keepPlaying = true
+Sat Dec 16 23:31:32 EST 2017  INFO  [C:Participant]  {M:setBet()}  ->   Bet made is 140.0
+Sat Dec 16 23:31:32 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 23:31:32 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   Name: Matt
+Amount in Chips: 140.0 pulled a card from the deck
+Sat Dec 16 23:31:32 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   Matt's hand has been initialized
+Sat Dec 16 23:31:34 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Clubs], Count: 0 pulled a card from the deck
+Sat Dec 16 23:31:34 EST 2017  INFO  [C:Card]  {M:pullCard()}  ->   House
+Hand: [9 of Clubs, King of Diamonds], Count: 0 pulled a card from the deck
+Sat Dec 16 23:31:34 EST 2017  INFO  [C:PlayGame]  {M:initializeHand()}  ->   House's hand has been initialized
+Sat Dec 16 23:31:34 EST 2017  INFO  [C:Functions]  {M:determineWinner()}  ->   House Wins! Gambler: 0.0 House: 150000.0
+Sat Dec 16 23:31:34 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
+Sat Dec 16 23:31:34 EST 2017  INFO  [C:Functions]  {M:clearHands()}  ->   All hands and counts have been cleared
